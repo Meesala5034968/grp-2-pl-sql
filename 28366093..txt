@@ -1,3 +1,5 @@
+Case Study: Healthcare Management System                   candidate id-28366093                    meesala Venkata naga satya vara prasad           superset id- 5034968
+
 Database Schema
 
 1 Creating Patients Table:
